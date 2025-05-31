@@ -1,2 +1,2 @@
-# projeto-corridas
-app para controlar o ganhos de corridas de aplicativos
+# projeto-app-corridas
+app (grafico) para controlar o ganhos de corridas de aplicativos
