@@ -1,5 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./controlcorridas/build/controlcorridas/android/gradle/app/build/python/pip/debug/common"
-    ]
-}
